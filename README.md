@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MoodTunes](https://github.com/ozemoya)
 - 🌱 I’m currently learning Next.JS
-- 💬 Ask me about [Topic]
+- 💬 Ask me about One Piece
 - 📫 How to reach me: myleskmiller@gmail.com
 - 😄 Pronouns: He/Him
 
