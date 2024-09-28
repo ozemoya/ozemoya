@@ -1,6 +1,5 @@
 # Hi there, I'm Myles 👋
 [![MasterHead](https://github.com/user-attachments/assets/06850a6f-8201-45f6-864b-f571b030cb17)](https://github.com/ozemoya)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y4hmhbrvb0ztmc3wc57hlvnrl)
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
 
