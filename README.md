@@ -1,5 +1,5 @@
 # Hi there, I'm Myles 👋
-[![MasterHead](https://github.com/user-attachments/assets/803cda98-b616-4ea7-bc69-86c3303e25e4)](https://github.com/ozemoya)
+[![MasterHead](https://github.com/user-attachments/assets/22cc2da4-f71b-49a4-a487-621c381d870f)](https://github.com/ozemoya)
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
 
