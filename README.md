@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
 
-- 🔭 I’m currently working on [MoodTunes](https://github.com/ozemoya)
+- 🔭 I’m currently working on [MoodTunes](https://github.com/ozemoya/moodtunes)
 - 🌱 I’m currently learning Next.JS
 - 💬 Ask me about One Piece
 - 📫 How to reach me: myleskmiller@gmail.com
