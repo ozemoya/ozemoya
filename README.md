@@ -1,11 +1,4 @@
 # Hi there, I'm Myles 👋
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
 [![MasterHead](https://github.com/user-attachments/assets/803cda98-b616-4ea7-bc69-86c3303e25e4)](https://github.com/ozemoya)
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
