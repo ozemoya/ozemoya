@@ -4,9 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🔭 I’m currently working on [MoodTunes](https://github.com/ozemoya)
 - 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Project/Technology]
 - 🤔 I’m looking for help with [Issue/Technology]
 - 💬 Ask me about [Topic]
 - 📫 How to reach me: [Email/LinkedIn/Twitter]
