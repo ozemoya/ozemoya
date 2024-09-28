@@ -1,5 +1,5 @@
 # Hi there, I'm Myles 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozemoya)](https://github.com/anuraghazra/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y4hmhbrvb0ztmc3wc57hlvnrl)
 ![](https://komarev.com/ghpvc/?username=ozemoya&color=green)
 ## About Me
 
