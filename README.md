@@ -5,29 +5,22 @@
 ## About Me
 
 - 🔭 I’m currently working on [MoodTunes](https://github.com/ozemoya)
-- 🌱 I’m currently learning [Technology/Language]
-- 🤔 I’m looking for help with [Issue/Technology]
+- 🌱 I’m currently learning Next.JS
 - 💬 Ask me about [Topic]
-- 📫 How to reach me: [Email/LinkedIn/Twitter]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact]
+- 📫 How to reach me: myleskmiller@gmail.com
+- 😄 Pronouns: He/Him
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java, etc.
-- **Frameworks**: React, Node.js, Django, etc.
-- **Tools**: Git, Docker, VS Code, etc.
+- **Languages**: JavaScript, Python, HTML/CSS
+- **Frameworks**: React, Next.JS
+- **Tools**: Git, VS Code
 
 ## Projects
 
-- [Project 1](link-to-project) - Description of project 1
-- [Project 2](link-to-project) - Description of project 2
+- [Whisker Wisdom](https://whisker-wisdom-main.vercel.app/) 
+- [Personal Website](ozemoya.github.io) 
 
-## Connect with Me
-
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Personal Website](link-to-website)
 
 ## GitHub Stats
 
