@@ -1,7 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Myles 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozemoya)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/ozemoya)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y4hmhbrvb0ztmc3wc57hlvnrl)
 ## About Me
 
 - 🔭 I’m currently working on [Project Name](link-to-project)
